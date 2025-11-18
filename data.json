@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "id": 1,
+      "name": "Free Fire Mod APK",
+      "version": "2.1",
+      "category": "games",
+      "links": [
+        "https://drive.google.com/file1",
+        "https://mediafire.com/file1", 
+        "https://dropbox.com/file1"
+      ],
+      "size": "85 MB",
+      "date": "2024-01-15"
+    },
+    {
+      "id": 2, 
+      "name": "WhatsApp Mod",
+      "version": "3.0",
+      "category": "apps",
+      "links": [
+        "https://drive.google.com/file2",
+        "https://mediafire.com/file2"
+      ],
+      "size": "45 MB",
+      "date": "2024-01-14"
+    }
+  ]
+}
